@@ -20,7 +20,7 @@ This project demonstrates how to send Firebase notifications using Spring Boot. 
 
 Postman url - 
 
-1. post -https://fcm.googleapis.com/v1/projects/your project id/messages:send
+1. post -https://fcm.googleapis.com/v1/projects/ your_project_id/messages:send
 
 {
   "message": {
